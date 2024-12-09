@@ -1,6 +1,6 @@
 # 📜 Official Rules 
 
-Businesses worldwide are losing valuable time, money, and opportunities because agreement data is trapped in inefficient systems, hindering decision-making and delaying processes. This is known as the **Agreement Trap**. 
+Businesses worldwide are losing valuable time, money, and opportunities because agreement data is trapped in inefficient systems, hindering decision-making and delaying processes. This is known as the **Agreement Trap**. https://www.youtube.com/watch?v=QQUF_XvKuZk
 
 To illustrate the Agreement Trap: if you send Terms and Conditions to **1,000 partners or customers annually**, tracking expiration dates for renewals becomes a major challenge. The key to solving this problem lies in the **data within these agreements**.
 
@@ -20,3 +20,6 @@ Unleash your creativity and transform the way businesses handle agreement data! 
 
 
 # My Initial Ideas 
+Due to travel, I didn't have access to my Linux PC with a powerful GPU, so I won’t be focusing on the AI branch for this project. The "Hack-For-Good" theme caught my attention as it offers plenty of exciting directions to explore, whereas the final option felt a bit too broad. Therefore, I've decided to go with "Hacking for Good."
+
+First, I wanted to find out how non-profits are using DocuSign and for what purposes. Here is what I found: 
